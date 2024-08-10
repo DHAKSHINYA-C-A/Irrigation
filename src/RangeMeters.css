@@ -1,0 +1,18 @@
+.range-meters {
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+  }
+  
+  .range-meter {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .range-meter input[type="range"] {
+    width: 100%;
+  }
+  

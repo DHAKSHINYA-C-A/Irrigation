@@ -1,0 +1,17 @@
+.report-button {
+    margin-left: 20px;
+  }
+  
+  .report-button button {
+    padding: 10px 20px;
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .report-button button:hover {
+    background-color: #2ecc71;
+  }
+  

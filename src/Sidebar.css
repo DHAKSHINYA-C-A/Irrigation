@@ -1,0 +1,15 @@
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #34495e;
+  }
+  
+  .sidebar ul li:hover {
+    background-color: #34495e;
+  }
+  

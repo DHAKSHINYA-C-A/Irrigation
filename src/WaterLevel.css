@@ -1,0 +1,15 @@
+.water-level {
+    flex: 1;
+    margin-right: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .water-level img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
